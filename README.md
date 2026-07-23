@@ -3,9 +3,31 @@
 ### Hi there 👋, I'm MD. Foridul Islam
 #### A collection of Oracle APEX projects, reusable components, and enterprise application examples.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+## 👋 About Me
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+I'm an Oracle APEX Developer passionate about building secure, scalable, and user-friendly enterprise web applications.
+
+I specialize in Oracle APEX, Oracle Database, SQL, and PL/SQL, with hands-on experience developing business applications such as ERP, Sales & Distribution, Inventory, Real Estate, Library, and Loan Management Systems. I enjoy transforming business requirements into reliable, high-performance, and maintainable solutions.
+
+### 🚀 Core Skills
+- Oracle APEX (24.x & 26.1)
+- Oracle Database (19c & 21c)
+- SQL & PL/SQL
+- HTML5, CSS3, JavaScript
+- jQuery & AJAX
+- REST APIs
+- BI Publisher
+
+### 💡 What I Focus On
+- Enterprise Application Development
+- Database Design & Performance Optimization
+- Clean Code & Best Practices
+- Responsive UI/UX
+- Secure & Scalable Business Solutions
+
+📫 Open to collaboration, professional networking, and Oracle APEX development opportunities.
+
+Skills: Oracle APEX • Oracle Database • SQL • PL/SQL • HTML5 • CSS3 • JavaScript • jQuery • AJAX • REST APIs • Interactive Reports • Interactive Grids • Dynamic Actions • Collections • Authentication & Authorization • Database Design • Query Optimization • Performance Tuning • Git • GitHub
 
 - 🔭 I’m currently working on Oracle APEX Developer 
 - 🌱 I’m currently learning Advance APEX Developing Tools 
@@ -22,12 +44,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=foridul121216)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foridul121216)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=foridul121216&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/foridul121216/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/foridul121216)  
 
