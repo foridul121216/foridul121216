@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Oracle APEX Developer Banner">
+  <img src="github.png" width="100%" alt="Oracle APEX Developer Banner">
 </p>
 
 ### Hi there 👋, I'm MD. Foridul Islam
