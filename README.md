@@ -1,4 +1,6 @@
-![Oracle APEX Developer Banner](D:/Foridul GitHub Account Information/github.png)
+<p align="center">
+  <img src="banner.png" width="100%" alt="Oracle APEX Developer Banner">
+</p>
 
 ### Hi there 👋, I'm MD. Foridul Islam
 #### A collection of Oracle APEX projects, reusable components, and enterprise application examples.
