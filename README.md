@@ -30,7 +30,7 @@ I specialize in Oracle APEX, Oracle Database, SQL, and PL/SQL, with hands-on exp
 Skills: Oracle APEX • Oracle Database • SQL • PL/SQL • HTML5 • CSS3 • JavaScript • jQuery • AJAX • REST APIs • Interactive Reports • Interactive Grids • Dynamic Actions • Collections • Authentication & Authorization • Database Design • Query Optimization • Performance Tuning • Git • GitHub
 
 - 🔭 I’m currently working on Oracle APEX Developer 
-- 🌱 I’m currently learning Advance APEX Developing Tools 
+- 🌱 I’m currently learning Advanced APEX Development Tools 
 - 👯 I’m looking to collaborate on Oracle APEX Projects & Custom Plug-ins 
 - 🤔 I’m looking for help with Oracle APEX RESTful Web Services 
 - 💬 Ask me about Oracle APEX, PL/SQL, Database Design, or Web Integration 
