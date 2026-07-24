@@ -41,7 +41,14 @@ Skills: Oracle APEX • Oracle Database • SQL • PL/SQL • HTML5 • CSS3 �
 - ⚡ Fun fact: I convert coffee into clean SQL code & APEX apps! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foridul121216)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/md-foridulislam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@foridulislam8733)  
+<p align="left">
+  <a href="https://github.com/foridul121216"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://www.linkedin.com/in/md-foridulislam"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+
+  <a href="https://www.youtube.com/@foridulislam8733" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="45" alt="YouTube"/>
+  </a>
+</p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
