@@ -1,4 +1,4 @@
-![A collection of Oracle APEX projects, reusable components, and enterprise application examples.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Oracle APEX Developer Banner](D:/Foridul GitHub Account Information/github.png)
 
 ### Hi there 👋, I'm MD. Foridul Islam
 #### A collection of Oracle APEX projects, reusable components, and enterprise application examples.
